@@ -14,7 +14,7 @@ export default function Header(){
         <nav className="hidden md:flex gap-6 items-center">
           <a href="#features" className="text-sm hover:underline">Features</a>
           <a href="#support" className="text-sm hover:underline">Support</a>
-          <a href="https://play.google.com/store/apps/details?id=com.puratrip" target="_blank" rel="noreferrer" className="inline-flex items-center gap-2 bg-indigo-600 text-white px-4 py-2 rounded-lg">Get it on Google Play</a>
+          <a href="https://play.google.com/store/apps/details?id=com.ysdigi.puratrip" target="_blank" rel="noreferrer" className="inline-flex items-center gap-2 bg-indigo-600 text-white px-4 py-2 rounded-lg">Get it on Google Play</a>
         </nav>
       </div>
     </header>
